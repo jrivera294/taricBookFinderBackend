@@ -23,12 +23,17 @@ Los cuales se encargan de buscar y retornar los libros de ISBNdb.com y publicarl
 > export ISBN_API_KEY=[TU API KEY]
 ```
 
-## Ejecutar servidor django
+## Instalar paquetes requeridos
 ```
-$ python manage.py runserver 8001
+$ pip install -r requirements.txt
 ```
 
 ## Ejecutar pruebas
 ```
 $ python manage.py test
+```
+
+## Ejecutar servidor django
+```
+$ python manage.py runserver 8001
 ```
