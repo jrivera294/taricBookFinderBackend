@@ -2,7 +2,7 @@
 
 Prueba Python Backend Junior para Taric S.A
 
-Éste backend fue codificado en Python, utilizando el framework Django.
+Este backend fue codificado en Python, utilizando el framework Django.
 
 Básicamente se encarga de publicar dos endpoints:
 
